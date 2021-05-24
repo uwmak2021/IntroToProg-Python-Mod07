@@ -43,8 +43,7 @@ Next, I created a new project in PyCharm (see Figure 2) based on instructions pr
 
 
 ## Creation of Python Script
-To demonstrate the knowledge learned in Module 07, I reused some of the python script created in Assignment 06, modified it to calculate the quotient of two numbers instead of adding a task to a list. Additionally, I added exception handling code to warn user of any errors/typo that may occur during the execution of the code and lastly added pickling code that save data in binary file.
-
+To demonstrate the knowledge learned in Module 07, I reused some of the python script created in Assignment 06, modified it to calculate the quotient of two numbers instead of adding a task to a list. Additionally, I added exception handling code to warn user of any errors/typo that may occur during the execution of the code and lastly added pickling code that save data in binary file.   
 Figure 3 through Figure 7 show the python script created to demonstrate excepting handling and pickling python concepts.   
 ![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/3.png "tooltip text")   
 ***Figure 3 Assignment 07 Script (Part 1)***
@@ -75,17 +74,21 @@ Since the code run perfectly in PyCharm, next step was to test it in command she
 ![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/8.png "tooltip text")   
 ***Figure 8 Assignment 07 Script Testing using Terminal (Part 1)***
 
+
 Figure below shows continuation of Assignment 07 script testing using terminal.   
 ![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/9.png "tooltip text")   
 ***Figure 9 Assignment 07 Script Testing using Termina (Part 2)***
+
 
 The script run as expected and no errors were found in the output file as shown in Figure 9.    
 ![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/10.png "tooltip text")   
 ***Figure 10 Assignment 07 Script Testing Output***   
 
 
+
 # Summary
 In this assignment, I learned how write a python script that incorporates exception handling concepts and pickling module.
+
 
 
 # References
