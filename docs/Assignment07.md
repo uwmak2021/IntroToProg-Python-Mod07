@@ -32,13 +32,13 @@ Below are step by step taken in creating the python script documented in this re
 
 ## Creation of “Assignment07” Folder
 I created a folder  called “Assignment07” inside the _PythonClass folder that is stored in Documents on my Mac (see Figure 1).   
- 
+![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/1.png "tooltip text")   
 ***Figure 1 Assignment07 Folder***
 
 
 ## Creation of “Assignment07” Project in PyCharm
 Next, I created a new project in PyCharm (see Figure 2) based on instructions provided in \A\.   
- 
+![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/2.png "tooltip text")   
 ***Figure 2 Assignment07 Project in PyCharm***
 
 
@@ -46,33 +46,41 @@ Next, I created a new project in PyCharm (see Figure 2) based on instructions pr
 To demonstrate the knowledge learned in Module 07, I reused some of the python script created in Assignment 06, modified it to calculate the quotient of two numbers instead of adding a task to a list. Additionally, I added exception handling code to warn user of any errors/typo that may occur during the execution of the code and lastly added pickling code that save data in binary file.
 
 Figure 3 through Figure 7 show the python script created to demonstrate excepting handling and pickling python concepts.   
+![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/3.png "tooltip text")   
 ***Figure 3 Assignment 07 Script (Part 1)***
  
 
 Figure below shows continuation of Assignment 07 script shown in Figure 3 through Figure 7.   
+![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/4.png "tooltip text")   
 ***Figure 4 Assignment 07 Script (Part 2)***
  
 
 Figure below shows continuation of Assignment 07 script shown in Figure 3 through Figure 7.   
+![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/5.png "tooltip text")   
 ***Figure 5 Assignment 07 Script (Part 3)***   
  
 
 Figure below shows continuation of Assignment 07 script shown in Figure 3 through Figure 7.   
+![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/6.png "tooltip text")   
 ***Figure 6 Assignment 07 Script (Part 4)***   
  
 
 Figure below shows continuation of Assignment 07 script shown in Figure 3 through Figure 7.   
+![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/7.png "tooltip text")   
 ***Figure 7 Assignment 07 Script (Part 5)***   
 
 
 ## Python Script Testing
 Since the code run perfectly in PyCharm, next step was to test it in command shell as shown in Figure 8 and Figure 9.    
+![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/8.png "tooltip text")   
 ***Figure 8 Assignment 07 Script Testing using Terminal (Part 1)***
 
 Figure below shows continuation of Assignment 07 script testing using terminal.   
+![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/9.png "tooltip text")   
 ***Figure 9 Assignment 07 Script Testing using Termina (Part 2)***
 
 The script run as expected and no errors were found in the output file as shown in Figure 9.    
+![alt text](https://github.com/uwmak2021/IntroToProg-Python-Mod07/blob/main/docs/10.png "tooltip text")   
 ***Figure 10 Assignment 07 Script Testing Output***   
 
 
